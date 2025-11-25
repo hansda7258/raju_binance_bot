@@ -1,0 +1,13 @@
+# Binance Futures Trading Bot - Dependencies
+
+# Binance API
+python-binance==1.0.19
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Utilities
+requests==2.31.0
+
+# PDF generation for report
+reportlab==4.0.7
